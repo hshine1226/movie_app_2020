@@ -37,6 +37,10 @@ body,
   width: 100%;
 }
 
+.movies a {
+  text-decoration: none;
+}
+
 .movies .movie {
   max-width: 520px;
   margin: 20px;
